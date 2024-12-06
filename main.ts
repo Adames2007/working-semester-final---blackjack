@@ -8,36 +8,36 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11e111111111111111111e1e
+                e1e1e1e11111111111111111e1e
+                e1e1eee11111111111111111e1e
+                e1e1e1e11111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e11111111eeeee11111111e1e
-                e1e1111111eeeeeee1111111e1e
+                e1e111111111111111111111e1e
+                e1e11111111e111e11111111e1e
+                e1e1111111eee1eee1111111e1e
                 e1e111111eeeeeeeee111111e1e
-                e1e11111eeeee1eeeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e1111eeee11111eeee1111e1e
-                e1e1111eeee11111eeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eee1111111eee1111e1e
-                e1e1111eee1111111eee1111e1e
-                e1e1111eee1111111eee1111e1e
-                e1e1111eee1111111eee1111e1e
+                e1e111111eeeeeeeee111111e1e
+                e1e111111eeeeeeeee111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e11111111111111111e1e1e1e
+                e1e11111111111111111eee1e1e
+                e1e11111111111111111e1e1e1e
+                e1e111111111111111111e11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -51,27 +51,16 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111111eeeeeee111111e1e
-                e1e1111111eeeeeeee111111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeee1eeeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e1111111111eeeee111111e1e
-                e1e111111111eeeeee111111e1e
+                e1e11ee11111111111111111e1e
+                e1e1e11e1111111111111111e1e
+                e1e111e11111111111111111e1e
+                e1e11e111111111111111111e1e
+                e1e1eeee111ee1ee11111111e1e
                 e1e1111111eeeeeee1111111e1e
-                e1e111111eeeeeee11111111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeeee11111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
@@ -81,6 +70,17 @@ function create_dealer_card (first: boolean, num: number) {
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e111111111111111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e111111111eee111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111ee1ee111eeee1e1e
+                e1e111111111111111111e11e1e
+                e1e11111111111111111e111e1e
+                e1e1111111111111111e11e1e1e
+                e1e11111111111111111ee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -94,36 +94,36 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11ee11111111111111111e1e
+                e1e1e11e1111111111111111e1e
+                e1e111e11111111111111111e1e
+                e1e1e11e111ee1ee11111111e1e
+                e1e11ee111eeeeeee1111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e11111111ee1ee11111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111eeeeeeeee1111111e1e
-                e1e1111eeeeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111111eeeeeeeeee1111e1e
-                e1e1111111111eeeeeee1111e1e
-                e1e111111111eeeeeeee1111e1e
-                e1e111111111eeeeeee11111e1e
-                e1e111111111eeeeeee11111e1e
-                e1e11111111111eeeeee1111e1e
-                e1e11111eeee1eeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeee111111e1e
-                e1e111111eeeeeeee1111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e111111111eee111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e1111111eeeeeee111ee11e1e
+                e1e11111111ee1ee111e11e1e1e
+                e1e11111111111111111e111e1e
+                e1e1111111111111111e11e1e1e
+                e1e11111111111111111ee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -138,34 +138,34 @@ function create_dealer_card (first: boolean, num: number) {
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
                 e1e111111111111111111111e1e
+                e1e1e1111111111111111111e1e
+                e1e1e1e11111111111111111e1e
+                e1e1eee11111111111111111e1e
+                e1e111e11111111111111111e1e
+                e1e111111111111111111111e1e
+                e1e111ee1ee11111ee1ee111e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e111eeeee11111eeeee111e1e
+                e1e1111eee1111111eee1111e1e
+                e1e11111e111111111e11111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111eee111eee111111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e1111111111111ee111111e1e
+                e1e11111e111111111e11111e1e
+                e1e1111eee1111111eee1111e1e
+                e1e111eeeee11111eeeee111e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e111ee1ee11111ee1ee111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e11111111111111111e111e1e
+                e1e11111111111111111eee1e1e
+                e1e11111111111111111e1e1e1e
+                e1e1111111111111111111e1e1e
                 e1e111111111111111111111e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
@@ -180,36 +180,36 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11eee1111111111111111e1e
+                e1e11e111111111111111111e1e
+                e1e11ee11111111111111111e1e
+                e1e1111e1111111111111111e1e
+                e1e11ee11111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e111ee1ee11111ee1ee111e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e111eeeee11111eeeee111e1e
+                e1e1111eee1111111eee1111e1e
+                e1e11111e111111111e11111e1e
+                e1e11111111ee1ee11111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e1111111eeeeeee1111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e11111e111111111e11111e1e
+                e1e1111eee1111111eee1111e1e
+                e1e111eeeee11111eeeee111e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e11eeeeeee111eeeeeee11e1e
+                e1e111ee1ee11111ee1ee111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e11111eeeeee1111111111e1e
-                e1e11111eeeeee1111111111e1e
-                e1e11111eeeeeeeeee111111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e1111111eeeeeeeeee1111e1e
-                e1e11111111eeeeeeeee1111e1e
-                e1e111111111eeeeeeee1111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e11111111111111111ee11e1e
+                e1e1111111111111111e1111e1e
+                e1e11111111111111111ee11e1e
+                e1e111111111111111111e11e1e
+                e1e1111111111111111eee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -222,38 +222,38 @@ function create_dealer_card (first: boolean, num: number) {
                 ..e111111111111111111111e..
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
-                e11e1111111111111111111e11e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeee1111eee11111e1e
-                e1e11111eeee111111111111e1e
-                e1e11111eeee111111111111e1e
-                e1e11111eeee111111111111e1e
-                e1e11111eeeeeeeeee111111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e11e1111111111111111111e11e
+                e11e11ee111111111111111e11e
+                e1e11e111111111111111111e1e
+                e1e11eee11111111ee1ee111e1e
+                e1e11e1e1111111eeeeeee11e1e
+                e1e11ee11111111eeeeeee11e1e
+                e1e1111111111111eeeee111e1e
+                e1e11111111111111eee1111e1e
+                e1e111111111111111e11111e1e
+                e1e111ee1ee1111111111111e1e
+                e1e11eeeeeee111111111111e1e
+                e1e11eeeeeee1111ee1ee111e1e
+                e1e111eeeee1111eeeeeee11e1e
+                e1e1111eee11111eeeeeee11e1e
+                e1e11111e1111111eeeee111e1e
+                e1e11111111111111eee1111e1e
+                e1e111111111111111e11111e1e
+                e1e111ee1ee1111111111111e1e
+                e1e11eeeeeee111111111111e1e
+                e1e11eeeeeee111111e11111e1e
+                e1e111eeeee111111eee1111e1e
+                e1e1111eee111111eeeee111e1e
+                e1e11111e111111eeeeeee11e1e
+                e1e111111111111eeeeeee11e1e
+                e1e1111111111111ee1ee111e1e
+                e1e11111e111111111111111e1e
+                e1e1111eee11111111111111e1e
+                e1e111eeeee1111111111111e1e
+                e1e11eeeeeee11111111ee11e1e
+                e1e11eeeeeee1111111e1e11e1e
+                e1e111ee1ee11111111eee11e1e
+                e1e111111111111111111e11e1e
+                e11e111111111111111ee11e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
                 ..e111111111111111111111e..
@@ -266,36 +266,36 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11eee1111111111111111e1e
+                e1e1111e1111111111111111e1e
+                e1e111e11111111111111111e1e
+                e1e11e111111111111111111e1e
+                e1e111111111111111111111e1e
+                e1e111111111111111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e1111111e111111e1e
+                e1e111111111e1e111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e1111111e111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e111111e1111111e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11111e1e11111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e111111111111eeeee1111e1e
-                e1e11111111111eeeeee1111e1e
-                e1e1111111111eeeeee11111e1e
-                e1e1111111111eeeeee11111e1e
-                e1e111111111eeeeee111111e1e
-                e1e11111111eeeeee1111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111eeeeeee11111111e1e
-                e1e111111eeeeee111111111e1e
-                e1e11111eeeeee1111111111e1e
-                e1e11111eeeee11111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e111111111111111111e11e1e
+                e1e11111111111111111e111e1e
+                e1e1111111111111111e1111e1e
+                e1e1111111111111111eee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -309,36 +309,36 @@ function create_dealer_card (first: boolean, num: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11e111111111111111111e1e
+                e1e1e1e11111111111111111e1e
+                e1e11e111111111111111111e1e
+                e1e1e1e11111111111111111e1e
+                e1e11e111111111111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e1111111e111111e1e
+                e1e111111111e1e111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e111e111e111111e1e
+                e1e111111111eee111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111e1e111111111e1e
+                e1e111111e1111111e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11111e1e11111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e111111eeee11eee111111e1e
-                e1e111111eee111eee111111e1e
-                e1e111111eee11eeee111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeee1eeeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeeee1eeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e111111111111111111e11e1e
+                e1e11111111111111111e1e1e1e
+                e1e111111111111111111e11e1e
+                e1e11111111111111111e1e1e1e
+                e1e111111111111111111e11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -351,38 +351,38 @@ function create_dealer_card (first: boolean, num: number) {
                 ..e111111111111111111111e..
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
-                e11e1111111111111111111e11e
+                e11e1eee111111111111111e11e
+                e1e11e1e1111111111111111e1e
+                e1e11eee1111111111111111e1e
+                e1e1111e1111111111111111e1e
+                e1e11ee11111111111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e1111111e111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e11e1e11e111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e111111e111e111e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11111e1e11111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111eeeeeeeee111111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeee111eeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e111111eeeeeeeeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e111111111111eeee11111e1e
-                e1e11111eee1111eeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeeee11111e1e
-                e1e11111eeeeeeeeee111111e1e
-                e1e1111111eeeeeee1111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e11e1111111111111111111e11e
+                e1e111111e1111111e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e11111111111111111ee11e1e
+                e1e1111111111111111e1111e1e
+                e1e1111111111111111eee11e1e
+                e1e1111111111111111e1e11e1e
+                e11e111111111111111eee1e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
                 ..e111111111111111111111e..
@@ -397,36 +397,36 @@ function create_dealer_card (first: boolean, num: number) {
                     .e111eeeeeeeeeeeeeeeee111e.
                     e11ee11111111111111111ee11e
                     e11e1111111111111111111e11e
+                    e1e11e1eee11111111111111e1e
+                    e1e11e1e1e11111111111111e1e
+                    e1e11e1eee11111111111111e1e
+                    e1e111111111111111111111e1e
+                    e1e11111e1e11111e1e11111e1e
+                    e1e1111eeeee111eeeee1111e1e
+                    e1e11111eee11111eee11111e1e
+                    e1e111111e11e1e11e111111e1e
+                    e1e11111111eeeee11111111e1e
+                    e1e111111111eee111111111e1e
+                    e1e11111e1e11e11e1e11111e1e
+                    e1e1111eeeee111eeeee1111e1e
+                    e1e11111eee11111eee11111e1e
+                    e1e111111e1111111e111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
+                    e1e111111e1111111e111111e1e
+                    e1e11111eee11111eee11111e1e
+                    e1e1111eeeee111eeeee1111e1e
+                    e1e11111e1e11e11e1e11111e1e
+                    e1e111111111eee111111111e1e
+                    e1e11111111eeeee11111111e1e
+                    e1e111111e11e1e11e111111e1e
+                    e1e11111eee11111eee11111e1e
+                    e1e1111eeeee111eeeee1111e1e
+                    e1e11111e1e11111e1e11111e1e
                     e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e11111ee11111eeee11111e1e
-                    e1e1111eeee111eeeeee1111e1e
-                    e1e1111eeee11eeeeeeee111e1e
-                    e1e1111eeee11eeeeeeee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eee11eee111e1e
-                    e1e1111eeee11eeeeeeee111e1e
-                    e1e1111eeee11eeeeeeee111e1e
-                    e1e1111eeee111eeeeee1111e1e
-                    e1e11111ee11111eeee11111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
+                    e1e11111111111111eee1e11e1e
+                    e1e11111111111111e1e1e11e1e
+                    e1e11111111111111eee1e11e1e
                     e11e1111111111111111111e11e
                     e11ee11111111111111111ee11e
                     .e111eeeeeeeeeeeeeeeee111e.
@@ -440,36 +440,36 @@ function create_dealer_card (first: boolean, num: number) {
                     .e111eeeeeeeeeeeeeeeee111e.
                     e11ee11111111111111111ee11e
                     e11e1111111111111111111e11e
+                    e1e11ee11111111111e1e111e1e
+                    e1e111e1111111111eeeee11e1e
+                    e1e1e1e11111111111eee111e1e
+                    e1e11e1111111111111e1111e1e
                     e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e11111111111eeee111111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e11111111111eeeee11111e1e
-                    e1e1111eee1111eeeee11111e1e
-                    e1e111eeee111eeeeee11111e1e
-                    e1e111eeeee11eeeeee11111e1e
-                    e1e111eeeeeeeeeeeee11111e1e
-                    e1e1111eeeeeeeeeee111111e1e
-                    e1e1111eeeeeeeeeee111111e1e
-                    e1e11111eeeeeeeee1111111e1e
-                    e1e1111111eeeeee11111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
+                    e1e111eeee11111111111111e1e
+                    e1e111e311e1111111111111e1e
+                    e1e111ed33e1111111111111e1e
+                    e1e111ed331e111111111111e1e
+                    e1e111edd33e111111111111e1e
+                    e1e1111edd31e11111111111e1e
+                    e1e1111edd33e11111111111e1e
+                    e1e11111edd31e1111111111e1e
+                    e1e11111eddd3e1111111111e1e
+                    e1e111111edd33e111111111e1e
+                    e1e111111eddd3e111111111e1e
+                    e1e1111111edd33e11ee1111e1e
+                    e1e1111111eddd33ee35e111e1e
+                    e1e11111111edd33e35e1111e1e
+                    e1e11111111eddde35e11111e1e
+                    e1e111111111ede95e111111e1e
+                    e1e1111111111e54bbe11111e1e
+                    e1e111111111e54cbbe11111e1e
+                    e1e11111111e44eccbbe1111e1e
+                    e1e111111111ee1eccbe1111e1e
+                    e1e111111111111eccce1111e1e
+                    e1e1111e11111111eee11e11e1e
+                    e1e111eee11111111111e1e1e1e
+                    e1e11eeeee1111111111e111e1e
+                    e1e111e1e11111111111ee11e1e
                     e11e1111111111111111111e11e
                     e11ee11111111111111111ee11e
                     .e111eeeeeeeeeeeeeeeee111e.
@@ -483,36 +483,36 @@ function create_dealer_card (first: boolean, num: number) {
                     .e111eeeeeeeeeeeeeeeee111e.
                     e11ee11111111111111111ee11e
                     e11e1111111111111111111e11e
+                    e1e11ee11111111111e1e111e1e
+                    e1e1e11e111111111eeeee11e1e
+                    e1e1e11e1111111111eee111e1e
+                    e1e11ee111111111111e1111e1e
+                    e1e1111e1111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
+                    e1e1111111111e1111111111e1e
+                    e1e1111111111e1111111111e1e
+                    e1e111111111e9e111111111e1e
+                    e1e111111111e3e111111111e1e
+                    e1e11ee1111e355e1111ee11e1e
+                    e1e11e9e111e345e111e9e11e1e
+                    e1e111e5e1e35555e1e5e111e1e
+                    e1e111e5e1e55555e1e5e111e1e
+                    e1e111e45e3554555e54e111e1e
+                    e1e1111e555543e5554e1111e1e
+                    e1e1111e4555e945554e1111e1e
+                    e1e11111e4555e5554e11111e1e
+                    e1e11111e433353554e11111e1e
+                    e1e11111eeeeeeeeeee11111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111eeeeeee11111111e1e
-                    e1e11111eeeeeeeee1111111e1e
-                    e1e1111eeeeeeeeeee111111e1e
-                    e1e111eeeeeeeeeeeee11111e1e
-                    e1e111eeeeee1eeeeee11111e1e
-                    e1e111eeeee111eeeee11111e1e
-                    e1e111eeeee111eeeee11111e1e
-                    e1e111eeeee111eeeee11111e1e
-                    e1e111eeeeee1eeeeee11111e1e
-                    e1e111eeeeeeeeeeeee11111e1e
-                    e1e1111eeeeeeeeeeeee1111e1e
-                    e1e11111eeeeeeeeeeee1111e1e
-                    e1e111111eeeeeeeeeeee111e1e
-                    e1e1111111111111eeeee111e1e
-                    e1e111111111111111eee111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
+                    e1e1111111111111111e1111e1e
+                    e1e1111e111111111111ee11e1e
+                    e1e111eee1111111111e11e1e1e
+                    e1e11eeeee111111111e11e1e1e
+                    e1e111e1e11111111111ee11e1e
                     e11e1111111111111111111e11e
                     e11ee11111111111111111ee11e
                     .e111eeeeeeeeeeeeeeeee111e.
@@ -526,36 +526,36 @@ function create_dealer_card (first: boolean, num: number) {
                     .e111eeeeeeeeeeeeeeeee111e.
                     e11ee11111111111111111ee11e
                     e11e1111111111111111111e11e
+                    e1e11e1e1111111111e1e111e1e
+                    e1e11ee1111111111eeeee11e1e
+                    e1e11e1e1111111111eee111e1e
+                    e1e11e1e11111111111e1111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
-                    e1e11111eee111111eee1111e1e
-                    e1e1111eeeee1111eeeee111e1e
-                    e1e1111eeeee11eeeeeee111e1e
-                    e1e1111eeeee1eeeeeeee111e1e
+                    e1e1111111111e1111111111e1e
+                    e1e111111111e9e111111111e1e
+                    e1e1111111111e1111111111e1e
+                    e1e111111111e3e111111111e1e
+                    e1e111e1111e355e1111e111e1e
+                    e1e11e3e111e355e111e3e11e1e
+                    e1e11e35e1e35554e1e35e11e1e
+                    e1e11e555e5553544e355e11e1e
+                    e1e11e495e5549e54e594e11e1e
+                    e1e11e4454e5e945e4444e11e1e
+                    e1e111e455455e554444e111e1e
+                    e1e111e4455555555544e111e1e
+                    e1e1111eeeeeeeeee3ee1111e1e
+                    e1e1111e44444555555e1111e1e
                     e1e1111eeeeeeeeeeeee1111e1e
-                    e1e1111eeeeeeeeeeee11111e1e
-                    e1e1111eeeeeeeeeee111111e1e
-                    e1e1111eeeeeeeeee1111111e1e
-                    e1e1111eeeeeeeee11111111e1e
-                    e1e1111eeeeeeee111111111e1e
-                    e1e1111eeeeeeee111111111e1e
-                    e1e1111eeeeeeeee11111111e1e
-                    e1e1111eeeeeeeeee1111111e1e
-                    e1e1111eeeeeeeeeeee11111e1e
-                    e1e1111eeeeeeeeeeee11111e1e
-                    e1e1111eeeee1eeeeeee1111e1e
-                    e1e1111eeeee11eeeeee1111e1e
-                    e1e1111eeeee111eeeee1111e1e
-                    e1e1111eeeee111eeeee1111e1e
-                    e1e11111eee11111eee11111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
                     e1e111111111111111111111e1e
-                    e1e111111111111111111111e1e
+                    e1e1111e11111111111e1e11e1e
+                    e1e111eee1111111111e1e11e1e
+                    e1e11eeeee1111111111ee11e1e
+                    e1e111e1e1111111111e1e11e1e
                     e11e1111111111111111111e11e
                     e11ee11111111111111111ee11e
                     .e111eeeeeeeeeeeeeeeee111e.
@@ -652,36 +652,36 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
+            e1e11e111111111111111111e1e
+            e1e1e1e11111111111111111e1e
+            e1e1eee11111111111111111e1e
+            e1e1e1e11111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
-            e1e11111111eeeee11111111e1e
-            e1e1111111eeeeeee1111111e1e
+            e1e111111111111111111111e1e
+            e1e11111111e111e11111111e1e
+            e1e1111111eee1eee1111111e1e
             e1e111111eeeeeeeee111111e1e
-            e1e11111eeeee1eeeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e1111eeee11111eeee1111e1e
-            e1e1111eeee11111eeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eee1111111eee1111e1e
-            e1e1111eee1111111eee1111e1e
-            e1e1111eee1111111eee1111e1e
-            e1e1111eee1111111eee1111e1e
+            e1e111111eeeeeeeee111111e1e
+            e1e111111eeeeeeeee111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e11111111111111111e1e1e1e
+            e1e11111111111111111eee1e1e
+            e1e11111111111111111e1e1e1e
+            e1e111111111111111111e11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -695,27 +695,16 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e11111111eeeeeee111111e1e
-            e1e1111111eeeeeeee111111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeee1eeeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111111111eeeee11111e1e
-            e1e1111111111eeeee111111e1e
-            e1e111111111eeeeee111111e1e
+            e1e11ee11111111111111111e1e
+            e1e1e11e1111111111111111e1e
+            e1e111e11111111111111111e1e
+            e1e11e111111111111111111e1e
+            e1e1eeee111ee1ee11111111e1e
             e1e1111111eeeeeee1111111e1e
-            e1e111111eeeeeee11111111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeeee11111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
@@ -725,6 +714,17 @@ function create_card (num2: number) {
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
+            e1e111111111111111111111e1e
+            e1e1111111111e1111111111e1e
+            e1e111111111eee111111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111ee1ee111eeee1e1e
+            e1e111111111111111111e11e1e
+            e1e11111111111111111e111e1e
+            e1e1111111111111111e11e1e1e
+            e1e11111111111111111ee11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -738,36 +738,36 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
+            e1e11ee11111111111111111e1e
+            e1e1e11e1111111111111111e1e
+            e1e111e11111111111111111e1e
+            e1e1e11e111ee1ee11111111e1e
+            e1e11ee111eeeeeee1111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
+            e1e11111111ee1ee11111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e11111eeeeeeeee1111111e1e
-            e1e1111eeeeeeeeeeee11111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111111eeeeeeeeee1111e1e
-            e1e1111111111eeeeeee1111e1e
-            e1e111111111eeeeeeee1111e1e
-            e1e111111111eeeeeee11111e1e
-            e1e111111111eeeeeee11111e1e
-            e1e11111111111eeeeee1111e1e
-            e1e11111eeee1eeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeee111111e1e
-            e1e111111eeeeeeee1111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e1111111111e1111111111e1e
+            e1e111111111eee111111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e1111111eeeeeee111ee11e1e
+            e1e11111111ee1ee111e11e1e1e
+            e1e11111111111111111e111e1e
+            e1e1111111111111111e11e1e1e
+            e1e11111111111111111ee11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -782,34 +782,34 @@ function create_card (num2: number) {
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
             e1e111111111111111111111e1e
+            e1e1e1111111111111111111e1e
+            e1e1e1e11111111111111111e1e
+            e1e1eee11111111111111111e1e
+            e1e111e11111111111111111e1e
+            e1e111111111111111111111e1e
+            e1e111ee1ee11111ee1ee111e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e111eeeee11111eeeee111e1e
+            e1e1111eee1111111eee1111e1e
+            e1e11111e111111111e11111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
-            e1e111111eee111eee111111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e1111111111111ee111111e1e
+            e1e11111e111111111e11111e1e
+            e1e1111eee1111111eee1111e1e
+            e1e111eeeee11111eeeee111e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e111ee1ee11111ee1ee111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e11111111111111111e111e1e
+            e1e11111111111111111eee1e1e
+            e1e11111111111111111e1e1e1e
+            e1e1111111111111111111e1e1e
             e1e111111111111111111111e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
@@ -824,36 +824,36 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
+            e1e11eee1111111111111111e1e
+            e1e11e111111111111111111e1e
+            e1e11ee11111111111111111e1e
+            e1e1111e1111111111111111e1e
+            e1e11ee11111111111111111e1e
             e1e111111111111111111111e1e
+            e1e111ee1ee11111ee1ee111e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e111eeeee11111eeeee111e1e
+            e1e1111eee1111111eee1111e1e
+            e1e11111e111111111e11111e1e
+            e1e11111111ee1ee11111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e1111111eeeeeee1111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
+            e1e11111e111111111e11111e1e
+            e1e1111eee1111111eee1111e1e
+            e1e111eeeee11111eeeee111e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e11eeeeeee111eeeeeee11e1e
+            e1e111ee1ee11111ee1ee111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeeee1111e1e
-            e1e11111eeeeeeeeeeee1111e1e
-            e1e11111eeeeeeeeeeee1111e1e
-            e1e11111eeeeee1111111111e1e
-            e1e11111eeeeee1111111111e1e
-            e1e11111eeeeeeeeee111111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e1111111eeeeeeeeee1111e1e
-            e1e11111111eeeeeeeee1111e1e
-            e1e111111111eeeeeeee1111e1e
-            e1e11111eeeeeeeeeeee1111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e11111111111111111ee11e1e
+            e1e1111111111111111e1111e1e
+            e1e11111111111111111ee11e1e
+            e1e111111111111111111e11e1e
+            e1e1111111111111111eee11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -866,38 +866,38 @@ function create_card (num2: number) {
             ..e111111111111111111111e..
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
-            e11e1111111111111111111e11e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeee1111eee11111e1e
-            e1e11111eeee111111111111e1e
-            e1e11111eeee111111111111e1e
-            e1e11111eeee111111111111e1e
-            e1e11111eeeeeeeeee111111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e11e1111111111111111111e11e
+            e11e11ee111111111111111e11e
+            e1e11e111111111111111111e1e
+            e1e11eee11111111ee1ee111e1e
+            e1e11e1e1111111eeeeeee11e1e
+            e1e11ee11111111eeeeeee11e1e
+            e1e1111111111111eeeee111e1e
+            e1e11111111111111eee1111e1e
+            e1e111111111111111e11111e1e
+            e1e111ee1ee1111111111111e1e
+            e1e11eeeeeee111111111111e1e
+            e1e11eeeeeee1111ee1ee111e1e
+            e1e111eeeee1111eeeeeee11e1e
+            e1e1111eee11111eeeeeee11e1e
+            e1e11111e1111111eeeee111e1e
+            e1e11111111111111eee1111e1e
+            e1e111111111111111e11111e1e
+            e1e111ee1ee1111111111111e1e
+            e1e11eeeeeee111111111111e1e
+            e1e11eeeeeee111111e11111e1e
+            e1e111eeeee111111eee1111e1e
+            e1e1111eee111111eeeee111e1e
+            e1e11111e111111eeeeeee11e1e
+            e1e111111111111eeeeeee11e1e
+            e1e1111111111111ee1ee111e1e
+            e1e11111e111111111111111e1e
+            e1e1111eee11111111111111e1e
+            e1e111eeeee1111111111111e1e
+            e1e11eeeeeee11111111ee11e1e
+            e1e11eeeeeee1111111e1e11e1e
+            e1e111ee1ee11111111eee11e1e
+            e1e111111111111111111e11e1e
+            e11e111111111111111ee11e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
             ..e111111111111111111111e..
@@ -910,36 +910,36 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
+            e1e11eee1111111111111111e1e
+            e1e1111e1111111111111111e1e
+            e1e111e11111111111111111e1e
+            e1e11e111111111111111111e1e
+            e1e111111111111111111111e1e
+            e1e111111111111111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e1111111e111111e1e
+            e1e111111111e1e111111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e1111111e111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
+            e1e111111e1111111e111111e1e
+            e1e11111eee11111eee11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111e1e11111e1e11111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e1111eeeeeeeeeeeee1111e1e
-            e1e11111eeeeeeeeeeee1111e1e
-            e1e111111111111eeeee1111e1e
-            e1e11111111111eeeeee1111e1e
-            e1e1111111111eeeeee11111e1e
-            e1e1111111111eeeeee11111e1e
-            e1e111111111eeeeee111111e1e
-            e1e11111111eeeeee1111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111eeeeeee11111111e1e
-            e1e111111eeeeee111111111e1e
-            e1e11111eeeeee1111111111e1e
-            e1e11111eeeee11111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e111111111111111111e11e1e
+            e1e11111111111111111e111e1e
+            e1e1111111111111111e1111e1e
+            e1e1111111111111111eee11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -953,36 +953,36 @@ function create_card (num2: number) {
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
             e11e1111111111111111111e11e
+            e1e11e111111111111111111e1e
+            e1e1e1e11111111111111111e1e
+            e1e11e111111111111111111e1e
+            e1e1e1e11111111111111111e1e
+            e1e11e111111111111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e1111111e111111e1e
+            e1e111111111e1e111111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e1111111111e1111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e111e111e111111e1e
+            e1e111111111eee111111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111e1e111111111e1e
+            e1e111111e1111111e111111e1e
+            e1e11111eee11111eee11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111e1e11111e1e11111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e111111eeee11eee111111e1e
-            e1e111111eee111eee111111e1e
-            e1e111111eee11eeee111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeee1eeeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeeee1eeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
+            e1e111111111111111111e11e1e
+            e1e11111111111111111e1e1e1e
+            e1e111111111111111111e11e1e
+            e1e11111111111111111e1e1e1e
+            e1e111111111111111111e11e1e
             e11e1111111111111111111e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
@@ -995,38 +995,38 @@ function create_card (num2: number) {
             ..e111111111111111111111e..
             .e111eeeeeeeeeeeeeeeee111e.
             e11ee11111111111111111ee11e
-            e11e1111111111111111111e11e
+            e11e1eee111111111111111e11e
+            e1e11e1e1111111111111111e1e
+            e1e11eee1111111111111111e1e
+            e1e1111e1111111111111111e1e
+            e1e11ee11111111111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e1111111e111111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111eee11111eee11111e1e
+            e1e111111e11e1e11e111111e1e
+            e1e11111111eeeee11111111e1e
+            e1e111111111eee111111111e1e
+            e1e111111e111e111e111111e1e
+            e1e11111eee11111eee11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111e1e11111e1e11111e1e
             e1e111111111111111111111e1e
             e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111eeeeeeeee111111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeee111eeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e111111eeeeeeeeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e111111111111eeee11111e1e
-            e1e11111eee1111eeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeeee11111e1e
-            e1e11111eeeeeeeeee111111e1e
-            e1e1111111eeeeeee1111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e1e111111111111111111111e1e
-            e11e1111111111111111111e11e
+            e1e111111e1111111e111111e1e
+            e1e11111eee11111eee11111e1e
+            e1e1111eeeee111eeeee1111e1e
+            e1e11111e1e11111e1e11111e1e
+            e1e11111111111111111ee11e1e
+            e1e1111111111111111e1111e1e
+            e1e1111111111111111eee11e1e
+            e1e1111111111111111e1e11e1e
+            e11e111111111111111eee1e11e
             e11ee11111111111111111ee11e
             .e111eeeeeeeeeeeeeeeee111e.
             ..e111111111111111111111e..
@@ -1041,36 +1041,36 @@ function create_card (num2: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11e1eee11111111111111e1e
+                e1e11e1e1e11111111111111e1e
+                e1e11e1eee11111111111111e1e
+                e1e111111111111111111111e1e
+                e1e11111e1e11111e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e11e1e11e111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111111eee111111111e1e
+                e1e11111e1e11e11e1e11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111eee11111eee11111e1e
+                e1e111111e1111111e111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e111111e1111111e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11e11e1e11111e1e
+                e1e111111111eee111111111e1e
+                e1e11111111eeeee11111111e1e
+                e1e111111e11e1e11e111111e1e
+                e1e11111eee11111eee11111e1e
+                e1e1111eeeee111eeeee1111e1e
+                e1e11111e1e11111e1e11111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111ee11111eeee11111e1e
-                e1e1111eeee111eeeeee1111e1e
-                e1e1111eeee11eeeeeeee111e1e
-                e1e1111eeee11eeeeeeee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eee11eee111e1e
-                e1e1111eeee11eeeeeeee111e1e
-                e1e1111eeee11eeeeeeee111e1e
-                e1e1111eeee111eeeeee1111e1e
-                e1e11111ee11111eeee11111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e11111111111111eee1e11e1e
+                e1e11111111111111e1e1e11e1e
+                e1e11111111111111eee1e11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -1084,36 +1084,36 @@ function create_card (num2: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11ee11111111111e1e111e1e
+                e1e111e1111111111eeeee11e1e
+                e1e1e1e11111111111eee111e1e
+                e1e11e1111111111111e1111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111111111eeee111111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e11111111111eeeee11111e1e
-                e1e1111eee1111eeeee11111e1e
-                e1e111eeee111eeeeee11111e1e
-                e1e111eeeee11eeeeee11111e1e
-                e1e111eeeeeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeee111111e1e
-                e1e1111eeeeeeeeeee111111e1e
-                e1e11111eeeeeeeee1111111e1e
-                e1e1111111eeeeee11111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e111eeee11111111111111e1e
+                e1e111e311e1111111111111e1e
+                e1e111ed33e1111111111111e1e
+                e1e111ed331e111111111111e1e
+                e1e111edd33e111111111111e1e
+                e1e1111edd31e11111111111e1e
+                e1e1111edd33e11111111111e1e
+                e1e11111edd31e1111111111e1e
+                e1e11111eddd3e1111111111e1e
+                e1e111111edd33e111111111e1e
+                e1e111111eddd3e111111111e1e
+                e1e1111111edd33e11ee1111e1e
+                e1e1111111eddd33ee35e111e1e
+                e1e11111111edd33e35e1111e1e
+                e1e11111111eddde35e11111e1e
+                e1e111111111ede95e111111e1e
+                e1e1111111111e54bbe11111e1e
+                e1e111111111e54cbbe11111e1e
+                e1e11111111e44eccbbe1111e1e
+                e1e111111111ee1eccbe1111e1e
+                e1e111111111111eccce1111e1e
+                e1e1111e11111111eee11e11e1e
+                e1e111eee11111111111e1e1e1e
+                e1e11eeeee1111111111e111e1e
+                e1e111e1e11111111111ee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -1127,36 +1127,36 @@ function create_card (num2: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11ee11111111111e1e111e1e
+                e1e1e11e111111111eeeee11e1e
+                e1e1e11e1111111111eee111e1e
+                e1e11ee111111111111e1111e1e
+                e1e1111e1111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e111111111e9e111111111e1e
+                e1e111111111e3e111111111e1e
+                e1e11ee1111e355e1111ee11e1e
+                e1e11e9e111e345e111e9e11e1e
+                e1e111e5e1e35555e1e5e111e1e
+                e1e111e5e1e55555e1e5e111e1e
+                e1e111e45e3554555e54e111e1e
+                e1e1111e555543e5554e1111e1e
+                e1e1111e4555e945554e1111e1e
+                e1e11111e4555e5554e11111e1e
+                e1e11111e433353554e11111e1e
+                e1e11111eeeeeeeeeee11111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111eeeeeee11111111e1e
-                e1e11111eeeeeeeee1111111e1e
-                e1e1111eeeeeeeeeee111111e1e
-                e1e111eeeeeeeeeeeee11111e1e
-                e1e111eeeeee1eeeeee11111e1e
-                e1e111eeeee111eeeee11111e1e
-                e1e111eeeee111eeeee11111e1e
-                e1e111eeeee111eeeee11111e1e
-                e1e111eeeeee1eeeeee11111e1e
-                e1e111eeeeeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeeeee1111e1e
-                e1e11111eeeeeeeeeeee1111e1e
-                e1e111111eeeeeeeeeeee111e1e
-                e1e1111111111111eeeee111e1e
-                e1e111111111111111eee111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e1111111111111111e1111e1e
+                e1e1111e111111111111ee11e1e
+                e1e111eee1111111111e11e1e1e
+                e1e11eeeee111111111e11e1e1e
+                e1e111e1e11111111111ee11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -1170,36 +1170,36 @@ function create_card (num2: number) {
                 .e111eeeeeeeeeeeeeeeee111e.
                 e11ee11111111111111111ee11e
                 e11e1111111111111111111e11e
+                e1e11e1e1111111111e1e111e1e
+                e1e11ee1111111111eeeee11e1e
+                e1e11e1e1111111111eee111e1e
+                e1e11e1e11111111111e1111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
-                e1e11111eee111111eee1111e1e
-                e1e1111eeeee1111eeeee111e1e
-                e1e1111eeeee11eeeeeee111e1e
-                e1e1111eeeee1eeeeeeee111e1e
+                e1e1111111111e1111111111e1e
+                e1e111111111e9e111111111e1e
+                e1e1111111111e1111111111e1e
+                e1e111111111e3e111111111e1e
+                e1e111e1111e355e1111e111e1e
+                e1e11e3e111e355e111e3e11e1e
+                e1e11e35e1e35554e1e35e11e1e
+                e1e11e555e5553544e355e11e1e
+                e1e11e495e5549e54e594e11e1e
+                e1e11e4454e5e945e4444e11e1e
+                e1e111e455455e554444e111e1e
+                e1e111e4455555555544e111e1e
                 e1e1111eeeeeeeeeeeee1111e1e
-                e1e1111eeeeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeee111111e1e
-                e1e1111eeeeeeeeee1111111e1e
-                e1e1111eeeeeeeee11111111e1e
-                e1e1111eeeeeeee111111111e1e
-                e1e1111eeeeeeee111111111e1e
-                e1e1111eeeeeeeee11111111e1e
-                e1e1111eeeeeeeeee1111111e1e
-                e1e1111eeeeeeeeeeee11111e1e
-                e1e1111eeeeeeeeeeee11111e1e
-                e1e1111eeeee1eeeeeee1111e1e
-                e1e1111eeeee11eeeeee1111e1e
-                e1e1111eeeee111eeeee1111e1e
-                e1e1111eeeee111eeeee1111e1e
-                e1e11111eee11111eee11111e1e
+                e1e1111e44444555555e1111e1e
+                e1e1111eeeeeeeeeeeee1111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
                 e1e111111111111111111111e1e
-                e1e111111111111111111111e1e
+                e1e1111e11111111111e1e11e1e
+                e1e111eee1111111111e1e11e1e
+                e1e11eeeee1111111111ee11e1e
+                e1e111e1e1111111111e1e11e1e
                 e11e1111111111111111111e11e
                 e11ee11111111111111111ee11e
                 .e111eeeeeeeeeeeeeeeee111e.
@@ -1367,126 +1367,126 @@ let card_number = 0
 let can_start_game = false
 let card_number_list: number[] = []
 scene.setBackgroundImage(img`
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777777777777777777777777777777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555557777777775555555555555555555557777777775555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555555777777757777777777777777777775777777755555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777555555555555555555777777577777777777777777777777577777755555555555555555577777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777755555555555555555577775777777777777777777777777757777555555555555555555777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777755555555555555555577775777777777777777777777777757777555555555555555555777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777755555555555555555557775777777777777777777777777757775555555555555555555777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777755555555555555555557775777777777777777777777777757775555555555555555555777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777775555555555555555555775777777777777777777777777757755555555555555555557777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777775555555555555555555575777777777777777777777777757555555555555555555557777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777555555555555555555555777777777777777777777777755555555555555555555577777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777555555555555555555555777777777777777777777777755555555555555555555577777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777755555555555555555555777777777777777777777777755555555555555555555777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777755555555555555555555777777777777777777777777755555555555555555555777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777775555555555555555555777777777777777777777777755555555555555555557777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777775555555555555555555777777777777777777777777755555555555555555557777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777555555555555555555777777777777777777777777755555555555555555577777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777755555555555555555777777777777777777777777755555555555555555777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777775555555555555555777777777777777777777777755555555555555557777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777775555555555555555777777777777777777777777755555555555555557777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777555555555555555777777777777777777777777755555555555555577777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777755555555555555777777777777777777777777755555555555555777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777775555555555555777777777777777777777777755555555555557777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777555555555555777777777777777777777777755555555555577777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777775555555555777777777777777777777777755555555557777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777555555555777777777777777777777777755555555577777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777755555555777777777777777777777777755555555777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777555555777777777777777777777777755555577777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777775555777777777777777777777777755557777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777755777777777777777777777777755777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777577777777777777777777777577777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777757777777777777777777775777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777775555555555555555555557777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777775555555555555555555557777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777757777777777777777777775777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777577777777777777777777777577777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777775777777777777777777777777757777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777577777777777777777777777577777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777757777777777777777777775777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777775555555555555555555557777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
-    7777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777
+    7776666667777777666666777777766666677777776644444444444444444777777766666677777776666667777777666666444444444444444447776666667777777666666777777766666677777776
+    7767777776777776777777677777677777767777767744444444444444444677777677777767777767777776777776777777444444444444444447767777776777776777777677777677777767777767
+    7677666677677767766667767776776666776777677644444444444444444767776776666776777677666677677767766667444444444444444447677666677677767766667767776776666776777677
+    6776777767767677677776776767767777677676776754444444444444444776767767777677676776777767767677677776444444444444444446776777767767677677776776767767777677676776
+    6767766776767676776677676767677667767676767754444444444444444676767677667767676767766776767676776677444444444444444456767766776767676776677676767677667767676767
+    6767677676767676767767676767676776767676767655444444444444444676767676776767676767677676767676767767444444444444444456767677676767676767767676767676776767676767
+    6767676776767676767677676767676767767676767655444444444444444676767676767767676767676776767676767677444444444444444556767676776767676767677676767676767767676767
+    6767677767767676767776776767676777677676767655544444444444444476767676333333333333333333333676767776444444444444444556767677767767676767776776767676777677676767
+    6667766677666666776667766666677766776666667755554444444444444466666673888888888888888888888366776664444444444444445556667766677666666777667766666677666776666667
+    7776777776777777677777677777767777767777776775554444444444444447777738888888888888888888888837677774444444444444455557776777776777777677777677777767777767777776
+    6677666667766667766666776666776766677666677665555444444444444446666388888888888888888888888883766644444444444444455566677666667766667767666776666776666677666677
+    7767767677677776776767767777677676776777767765555544444444444444777388888888888888888888888883776744444444444444555577767767677677776776767767777677676776777767
+    6776766676776677676667677667767666767766776765555554444444444444667388888888888888888888888883676444444444444445555566776766676776677676667677667767666767766776
+    7676767676767767676767676776767676767677676767555555444444444444476388888888888888888888888883676444444444444455555577676767676767767676767676776767676767677676
+    6776767676767677676767676767767676767676776767555555444444444444447388888888888888888888888883674444444444444555555676776767676767677676767676767767676767676776
+    7767767676767776776767676777677676767677767767655555554444444444444388888888888888888888888883744444444444444555555677767767676767776776767676777677676767677767
+    6677677676776667767767677666776776767766677677655555555444444444444388888888888888888888888883444444444444455555557766677677676776667767767677666776776767766677
+    7776777677677777677767767777767776776777776777675555555544444444444388888888888888888888888883444444444444555555556777776777677677777677767767777767776776777776
+    6666666667766666666666776666666666677666666666663555555554444444444388888888888888888888888883444444444445555555577666666666667766666666666776666666666677666666
+    7767777776777776777777677777677777767777767777776355555555554444444388888888888888888888888883444444444455555555367777767777776777776777777677777677777767777767
+    6677666677666667766667766666776666776666677666677335555555555554444388888888888888888888888883444444455555555553776666677666677666667766667766666776666776666677
+    6776777767767677677776776767767777677676776777767733555555555555554388888888888888888888888883444455555555555533677676776777767767677677776776767767777677676776
+    6767766776767676776677676767677667767676767766776763355555555555555388888888888888888888888883455555555555555337767676767766776767676776677676767677667767676767
+    6767677676767676767767676767676776767676767677676767335555555555555388888888888888888888888883555555555555553376767676767677676767676767767676767676776767676767
+    6767676776767676767677676767676767767676767676776767333555555555555388888888888888888888888883555555555555533767767676767676776767676767677676767676767767676767
+    6767677767767676767776776767676777677676767677767767633355555555555388888888888888888888888883555555555555333777677676767677767767676767776776767676777677676767
+    6667766677666666776667766666677766776666667766677666663333555555555388888888888888888888888883555555555553337766776666667766677666666777667766666677666776666667
+    7776777776777777677777677777767777767777776777776777777333555555555388888888888888888888888883555555555333367777767777776777776777777677777677777767777767777776
+    6677666667766667766666776666776766677666677666667766667733333555555388888888888888888888888883555555555333776766677666677666667766667767666776666776666677666677
+    7767767677677776776767767777677676776777767767677677776773333335555388888888888888888888888883555555333337677676776777767767677677776776767767777677676776777767
+    6776766676776677676667677667767666767766776766676776677676613333333388888888888888888888888883555533333367767666767766776766676776677676667677667767666767766776
+    7676767676767767676767676776767676767677676767676767767676761133333388888888888888888888888883333333316776767676767677676767676767767676767676776767676767677676
+    6776767676767677676767676767767676767676776767676767677676767611333388888888888888888888888883333331176767767676767676776767676767677676767676767767676767676776
+    7767767676767776776767676777677676767677767767676767776776767676111388888888888888888888888883333117676777677676767677767767676767776776767676777677676767677767
+    6677677676776667767767677666776776767766677677676776667767767677661388888888888888888888888883111767677666776776767766677677676776667767767677666776776767766677
+    7776777677677777677767767777767776776777776777677677777677767767777388888888888888888888888883177767767777767776776777776777677677777677767767777767776776777776
+    6666666667766666666666776666666666677666666666667766666666666776666388888888888888888888888883666666776666666666677666666666667766666666666776666666666677666666
+    7767777776777776777777677777677777767777767777776777776777777677777388888888888888888888888883777777677777677777767777767777776777776777777677777677777767777767
+    6677666677666667766667766666776666776666677666677666667766667766666388888888888888888888888883766667766666776666776666677666677666667766667766666776666776666677
+    6776777767767677677776776767767777677676776777767767677677776776767388888888888888888888888883677776776767767777677676776777767767677677776776767767777677676776
+    6767766776767676776677676767677667767676767766776767676776677676767388888888888888888888888883776677676767677667767676767766776767676776677676767677667767676767
+    6767677676767676767767676767676776767676767677676767676767767676767388888888888888888888888883767767676767676776767676767677676767676767767676767676776767676767
+    6767676776767676767677676767676767767676767676776767676767677676767388888888888888888888888883767677676767676767767676767676776767676767677676767676767767676767
+    6767677767767676767776776767676777677676767677767767676767776776767388888888888888888888888883767776776767676777677676767677767767676767776776767676777677676767
+    6767766677677676776667767767677666776776767766677677676776667767767638888888888888888888888836776667767767677666776776767766677677676776667767767677666776776767
+    6776777776777677677777677767767777767776776777776777677677777677767763888888888888888888888377677777677767767777767776776777776777677677777677767767777767776776
+    6677666776666667766677666666777667766666677666776666667776677666666776333333333333333333333667766677666666777667766666677666776666667776677666666776667766666677
+    7767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767
+    6776666677666677666667766667767666776666776666677666677676667766667766666776666776766677666677666667766667767666776666776666677666677676667766667766666776666776
+    7677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677
+    7767666767766776766676776677676667677667767666767766776766676776677676667677667767666767766776766676776677676667677667767666767766776766676776677676667677667767
+    6767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767
+    7767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767
+    7677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767676777677
+    6776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677666777
+    7767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767777767
+    6666666677666666666667766666666666776666666666677666666666667766666666666776666666666677666666666667766666666666776666666666677666666666667766666666666776666667
+    7677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677
+    6776666776666677666677666667766667766666776666776666677666677666667766667766666776666776666677666677666667766667766666776666776666677666677666667766667766666777
+    7767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767
+    7677667767676767766776767676776677676767677667767676767766776767676776677676767677667767676767766776767676776677676767677667767676767766776767676776677676767677
+    7676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767677
+    7676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767677
+    7676777677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767677
+    7677666776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677
+    7767777767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767
+    6776667766666677666776666667776677666666776667766666677766776666667766677666666777667766666677666776666667776677666666776667766666677766776666667766677666666777
+    7677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677
+    7766666776666776666677666677676667766667766666776666776766677666677666667766667767666776666776666677666677676667766667766666776666776766677666677666667766667767
+    6776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776777
+    7676667677667767666767766776766676776677676667677667767666767766776766676776677676667677667767666767766776766676776677676667677667767666767766776766676776677677
+    7676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767677
+    7676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677676767676767767676767676776767676767677677
+    6776767676777677676767677767767676767776776767676777677676767677767767333333333333333333333677676767677767767676767776776767676777677676767677767767676767776777
+    7767767677666776776767766677677676776667767767677666776776767766677673888888888888888888888376776767766677677676776667767767677666776776767766677677676776667777
+    7677767767777767776776777776777677677777677767767777767776776777776738888888888888888888888837776776777776777677677777677767767777767776776777776777677677777677
+    6666666776666666666677666666666667766666666666776666666666677666666388888888888888888888888883666677666666666667766666666666776666666666677666666666667766666677
+    6777777677777677777767777767777776777776777777677777677777767777767388888888888888888888888883777767777767777776777776777777677777677777767777767777776777776777
+    7766667766666776666776666677666677666667766667766666776666776666677388888888888888888888888883666776666677666677666667766667766666776666776666677666677666667777
+    7677776776767767777677676776777767767677677776776767767777677676776388888888888888888888888883777677676776777767767677677776776767767777677676776777767767677677
+    6776677676767677667767676767766776767676776677676767677667767676767388888888888888888888888883667767676767766776767676776677676767677667767676767766776767676777
+    6767767676767676776767676767677676767676767767676767676776767676767388888888888888888888888883776767676767677676767676767767676767676776767676767677676767676777
+    6767677676767676767767676767676776767676767677676767676767767676767388888888888888888888888883767767676767676776767676767677676767676767767676767676776767676777
+    6767776776767676777677676767677767767676767776776767676777677676767388888888888888888888888883777677676767677767767676767776776767676777677676767677767767676777
+    6776667767767677666776776767766677677676776667767767677666776776767388888888888888888888888883666776776767766677677676776667767767677666776776767766677677676777
+    6667766677666666776667766666677766776666667766677666666777667766666388888888888888888888888883776667766666677766776666667766677666666777667766666677666776666667
+    7776777776777777677777677777767777767777776777776777777677777677777388888888888888888888888883677777677777767777767777776777776777777677777677777767777767777776
+    6677666667766667766666776666776766677666677666667766667767666776666388888888888888888888888883766666776666776766677666677666667766667767666776666776666677666677
+    7767767677677776776767767777677676776777767767677677776776767767777388888888888888888888888883776767767777677676776777767767677677776776767767777677676776777767
+    6776766676776677676667677667767666767766776766676776677676667677667388888888888888888888888883676667677667767666767766776766676776677676667677667767666767766776
+    7676767676767767676767676776767676767677676767676767767676767676776388888888888888888888888883676767676776767676767677676767676767767676767676776767676767677676
+    6776767676767677676767676767767676767676776767676767677676767676767388888888888888888888888883676767676767767676767676776767676767677676767676767767676767676776
+    7767767676767776776767676777677676767677767767676767776776767676777388888888888888888888888883776767676777677676767677767767676767776776767676777677676767677767
+    6677677676776667767767677666776776767766677677676776667767767677666388888888888888888888888883767767677666776776767766677677676776667767767677666776776767766677
+    7776777677677777677767767777767776776777776777677677777677767767777388888888888888888888888883677767767777767776776777776777677677777677767767777767776776777776
+    6666666667766666666666776666666666677666666666667766666666666776666388888888888888888888888883666666776666666666677666666666667766666666666776666666666677666666
+    7767777776777776777777677777677777767777767777776777776777777677777388888888888888888888888883777777677777677777767777767777776777776777777677777677777767777767
+    6677666677666667766667766666776666776666677666677666667766667766666388888888888888888888888883766667766666776666776666677666677666667766667766666776666776666677
+    6776777767767677677776776767767777677676776777767767677677776776767388888888888888888888888883677776776767767777677676776777767767677677776776767767777677676776
+    6767766776767676776677676767677667767676767766776767676776677676767388888888888888888888888883776677676767677667767676767766776767676776677676767677667767676767
+    6767677676767676767767676767676776767676767677676767676767767676767388888888888888888888888883767767676767676776767676767677676767676767767676767676776767676767
+    6767676776767676767677676767676767767676767676776767676767677676767388888888888888888888888883767677676767676767767676767676776767676767677676767676767767676767
+    6767677767767676767776776767676777677676767677767767676767776776767388888888888888888888888883767776776767676777677676767677767767676767776776767676777677676767
+    6767766677677676776667767767677666776776767766677677676776667767767388888888888888888888888883776667767767677666776776767766677677676776667767767677666776776767
+    6776777776777677677777677767767777767776776777776777677677777677767388888888888888888888888883677777677767767777767776776777776777677677777677767767777767776776
+    6677666776666667766677666666777667766666677666776667767766666776776388888888888888888888888883766666776776776666677677677666667767767766666776776776666677677677
+    6667766677666666776667766666677766776666667766677666666777667766666388888888888888888888888883776667766666677766776666667766677666666777667766666677666776666667
+    7776777776777777677777677777767777767777776777776777777677777677777388888888888888888888888883677777677777767777767777776777776777777677777677777767777767777776
+    6677666667766667766666776666776766677666677666667766667767666776666388888888888888888888888883766666776666776766677666677666667766667767666776666776666677666677
+    7767767677677776776767767777677676776777767767677677776776767767777388888888888888888888888883776767767777677676776777767767677677776776767767777677676776777767
+    6776766676776677676667677667767666767766776766676776677676667677667738888888888888888888888837676667677667767666767766776766676776677676667677667767666767766776
+    7676767676767767676767676776767676767677676767676767767676767676776763888888888888888888888367676767676776767676767677676767676767767676767676776767676767677676
+    6776767676767677676767676767767676767676776767676767677676767676767767333333333333333333333677676767676767767676767676776767676767677676767676767767676767676776
+    7767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767767676767776776767676777677676767677767
+    6677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677677676776667767767677666776776767766677
+    7776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776777677677777677767767777767776776777776
+    6666666667766666666666776666666666677666666666667766666666666776666666666677666666666667766666666666776666666666677666666666667766666666666776666666666677666666
+    7767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767777776777776777777677777677777767777767
+    6677666677666667766667766666776666776666677666677666667766667766666776666776666677666677666667766667766666776666776666677666677666667766667766666776666776666677
+    6776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776777767767677677776776767767777677676776
     `)
 card_number_list = [
 11,
