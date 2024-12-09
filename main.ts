@@ -641,7 +641,9 @@ function draw_cards() {
         draws += 1
         if (card_number == 11 && player_sum > 21) {
             player_sum -= 10
-        } else if (player_ace == true) {
+        }
+        
+        if (player_ace == true && player_sum > 21) {
             player_sum -= 10
         }
         
@@ -658,7 +660,7 @@ function draw_cards() {
 
 function create_card(num2: number) {
     
-    card_number = card_number_list[randint(0, 12)]
+    card_number = card_number_list[0]
     if (card_number == 11) {
         player_card = sprites.create(img`
                 ...eeeeeeeeeeeeeeeeeeeee...
@@ -1241,6 +1243,7 @@ function dealer_draw_cards() {
         
         dealer_sum += card_number
         dealer_draws += 1
+        pause(100)
         if (card_number == 11 && dealer_sum > 21) {
             dealer_sum -= 10
         } else if (dealer_ace == true) {
@@ -1363,6 +1366,8 @@ function start_game() {
         if (dealer_sum == 21) {
             game.splash("DEALER BLACKJACK!")
             game.gameOver(false)
+        } else if (dealer_sum > player_sum) {
+            
         } else {
             dealer_draws = 0
             dealer_draw_cards()
@@ -1372,8 +1377,10 @@ function start_game() {
             game.splash("Tie...")
             game.reset()
         } else if (dealer_sum > player_sum) {
+            game.splash("Dealer wins!")
             game.gameOver(false)
         } else if (dealer_sum < player_sum) {
+            game.splash("You win!")
             game.gameOver(true)
         }
         

@@ -647,7 +647,7 @@ def draw_cards():
         draws += 1
         if card_number == 11 and player_sum > 21:
             player_sum -= 10
-        elif player_ace == True:
+        if player_ace == True and player_sum > 21:
             player_sum -= 10
         if player_sum > 21:
             game.splash("BUST!")
@@ -657,7 +657,7 @@ def draw_cards():
         pause(100)
 def create_card(num2: number):
     global card_number, player_ace, player_card, _10_j_q_k
-    card_number = card_number_list[randint(0, 12)]
+    card_number = card_number_list[0]
     if card_number == 11:
         player_card = sprites.create(img("""
                 ...eeeeeeeeeeeeeeeeeeeee...
@@ -1245,6 +1245,7 @@ def dealer_draw_cards():
             create_dealer_card(False, 2 + dealer_draws)
         dealer_sum += card_number
         dealer_draws += 1
+        pause(100)
         if card_number == 11 and dealer_sum > 21:
             dealer_sum -= 10
         elif dealer_ace == True:
@@ -1362,6 +1363,8 @@ def start_game():
         if dealer_sum == 21:
             game.splash("DEALER BLACKJACK!")
             game.game_over(False)
+        elif dealer_sum > player_sum:
+            pass
         else:
             dealer_draws = 0
             dealer_draw_cards()
@@ -1369,8 +1372,10 @@ def start_game():
             game.splash("Tie...")
             game.reset()
         elif dealer_sum > player_sum:
+            game.splash("Dealer wins!")
             game.game_over(False)
         elif dealer_sum < player_sum:
+            game.splash("You win!")
             game.game_over(True)
 dealer_draws = 0
 dealer_sum = 0
