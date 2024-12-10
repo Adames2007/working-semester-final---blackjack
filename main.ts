@@ -660,7 +660,7 @@ function draw_cards() {
 
 function create_card(num2: number) {
     
-    card_number = card_number_list[0]
+    card_number = card_number_list[randint(0, 12)]
     if (card_number == 11) {
         player_card = sprites.create(img`
                 ...eeeeeeeeeeeeeeeeeeeee...

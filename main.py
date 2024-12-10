@@ -657,7 +657,7 @@ def draw_cards():
         pause(100)
 def create_card(num2: number):
     global card_number, player_ace, player_card, _10_j_q_k
-    card_number = card_number_list[0]
+    card_number = card_number_list[randint(0, 12)]
     if card_number == 11:
         player_card = sprites.create(img("""
                 ...eeeeeeeeeeeeeeeeeeeee...
